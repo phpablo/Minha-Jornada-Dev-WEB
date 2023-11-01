@@ -7,7 +7,7 @@
 *Explore os projetos web que criei para aplicar o que aprendi.*
 
 1. HTML5&CSS3 Módulo 1
-     - Exercícios [link](link)
+     - Exercícios
    
 2. Git e GitHUB
     - [Git](https://github.com/phpablo/Projetogit)
