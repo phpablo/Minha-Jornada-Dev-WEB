@@ -4,7 +4,8 @@
 
 ## O que você encontrará aqui:
 
-- [**Projetos Pessoais**](CursoHtmlCss): Explore os projetos web que criei para aplicar o que aprendi. Desde pequenas páginas web até aplicativos interativos, você encontrará uma variedade de projetos pessoais.
+- **Projeto** [Clone Home Page Apple](https://github.com/phpablo/clone-homepage-apple)
+- **Projetos Pessoais**: Explore os projetos web que criei para aplicar o que aprendi. Desde pequenas páginas web até aplicativos interativos, você encontrará uma variedade de projetos pessoais.
 
 - [**Exercícios e Desafios**](CursoPython/Desafios): Acompanhe meus desafios de codificação e exercícios que resolvi para aprimorar minhas habilidades.
 
