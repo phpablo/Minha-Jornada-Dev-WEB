@@ -1,15 +1,30 @@
 <h1 align="center">🚀Minha Jornada de Desenvolvimento Web 🤓</h1>
 
-<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada de aprendizado em desenvolvimento web. Aqui você encontrará meus projetos, exercícios e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
+<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada de aprendizado em desenvolvimento web. Aqui você encontrará meus projetos didáticos, exercícios das aulas e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
 
 ## O que você encontrará aqui:
+### 💻 **Exercícios e Desafios dos Cursos**
+*Explore os projetos web que criei para aplicar o que aprendi.*
 
-- **Projeto** [Clone Home Page Apple](https://github.com/phpablo/clone-homepage-apple)
-- **Projetos Pessoais**: Explore os projetos web que criei para aplicar o que aprendi. Desde pequenas páginas web até aplicativos interativos, você encontrará uma variedade de projetos pessoais.
+1. HTML5&CSS3 Módulo 1
+     - Exercícios [link](link)
+   
+2. Git e GitHUB
+    - [Git](https://github.com/phpablo/Projetogit)
+    - [Merge](https://github.com/phpablo/testando-merge)
+    - [Site](https://github.com/phpablo/projeto-site)
+    - [Remove Maldição](https://github.com/phpablo/Hello-World)
+4. JavaScript
+5. MySQL
+6. Python
+7. PHP Básico
+8. PHP Moderno v.8
+9. Programação Orientada a Objetos
+     - [Livros](https://github.com/phpablo/ProjetoLivro)
 
-- [**Exercícios e Desafios**](CursoPython/Desafios): Acompanhe meus desafios de codificação e exercícios que resolvi para aprimorar minhas habilidades.
+### 🚧Aprendizado Contínuo
 
-- 🚧**Aprendizado Contínuo**🚧: Este repositório reflete minha jornada de aprendizado contínuo. A medida que eu for avançando, você verá novos projetos e conquistas.
+*Este repositório reflete minha jornada de aprendizado contínuo. A medida que eu for avançando, você verá novos projetos e conquistas.*
 
 ## Como explorar:
 
