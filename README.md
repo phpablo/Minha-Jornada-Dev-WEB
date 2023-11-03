@@ -19,8 +19,9 @@
 6. Python
 7. PHP Básico
 8. PHP Moderno v.8
-9. Programação Orientada a Objetos
+9. PHP Orientado a Objetos
      - [Livros](https://github.com/phpablo/ProjetoLivro)
+     - [Conteúdo Aulas + Exercícios](https://github.com/phpablo/PHP-Orientado-a-Objetos.git)
 
 ### 🚧Aprendizado Contínuo
 
