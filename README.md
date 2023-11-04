@@ -17,7 +17,7 @@
 4. JavaScript
 5. MySQL
 6. Python
-   -[Mundo 01](https://github.com/phpablo/Curso-de-Python-Mundo-1.git)
+     -[Mundo 01](https://github.com/phpablo/Curso-de-Python-Mundo-1.git)
 8. PHP Básico
 9. PHP Moderno v.8
 10. PHP Orientado a Objetos
