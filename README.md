@@ -21,9 +21,9 @@
 8. PHP Básico
 9. PHP Moderno v.8
 10. PHP Orientado a Objetos
-     - [Livros](https://github.com/phpablo/ProjetoLivro)
+     - [Exercício Livros](https://github.com/phpablo/ProjetoLivro)
      - [Conteúdo Aulas + Exercícios](https://github.com/phpablo/PHP-Orientado-a-Objetos.git)
-     - [Conteúdos Finais](https://github.com/phpablo/Curso-PHP-POO.git)
+     - [Conteúdo Final do Curso](https://github.com/phpablo/Curso-PHP-POO.git)
 
 ### 🚧Aprendizado Contínuo
 
