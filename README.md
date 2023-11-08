@@ -24,6 +24,8 @@
      - [Exercício Livros](https://github.com/phpablo/ProjetoLivro)
      - [Conteúdo Aulas + Exercícios](https://github.com/phpablo/PHP-Orientado-a-Objetos.git)
      - [Conteúdo Final do Curso](https://github.com/phpablo/Curso-PHP-POO.git)
+11. PHP Zero ao Profisisonal
+     - [Todos Módulos](https://github.com/phpablo/b7webphp.git)
 
 ### 🚧Aprendizado Contínuo
 
