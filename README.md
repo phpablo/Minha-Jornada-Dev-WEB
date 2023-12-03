@@ -15,8 +15,9 @@
     - [Site](https://github.com/phpablo/projeto-site)
     - [Remove Maldição](https://github.com/phpablo/Hello-World)
 4. JavaScript
-5. MySQL
-6. Python
+     - [Módulo A,B,C e D](https://github.com/phpablo/CursoJs.git)
+6. MySQL
+7. Python
      - [Mundo 01](https://github.com/phpablo/Curso-de-Python-Mundo-1.git)
 8. PHP Básico
 9. PHP Moderno v.8
