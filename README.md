@@ -6,8 +6,11 @@
 ### 💻 **Exercícios e Desafios dos Cursos**
 *Explore os projetos web que criei para aplicar o que aprendi.*
 
-1. HTML5&CSS3 Módulo 1
-     - [Exercícios](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios)
+1. HTML5&CSS3
+     - [Módulo 1](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios)
+     - [Módulo 2](https://github.com/phpablo/Mod2_HTML5-CSS3)
+     - [Módulo 3](https://github.com/phpablo/Mod3_HTML5-CSS3)
+
    
 2. Git e GitHUB
     - [Git](https://github.com/phpablo/Projetogit)
