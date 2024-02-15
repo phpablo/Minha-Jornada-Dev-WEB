@@ -4,32 +4,43 @@
 
 ## O que você encontrará aqui:
 ### 💻 **Exercícios e Desafios dos Cursos**
-*Explore os projetos web que criei para aplicar o que aprendi.*
+*Explore os projetos web que criei para aplicar o que aprendi.* <br> <br>
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css"/>
 
-1. HTML5&CSS3
-     - [Módulo 1](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios)
-     - [Módulo 2](https://github.com/phpablo/Mod2_HTML5-CSS3)
-     - [Módulo 3](https://github.com/phpablo/Mod3_HTML5-CSS3)
+| [Módulo 1](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios) |
+[Módulo 2](https://github.com/phpablo/Mod2_HTML5-CSS3) |
+[Módulo 3](https://github.com/phpablo/Mod3_HTML5-CSS3) |
 
-   
-2. Git e GitHUB
-    - [Git](https://github.com/phpablo/Projetogit)
-    - [Merge](https://github.com/phpablo/testando-merge)
-    - [Site](https://github.com/phpablo/projeto-site)
-    - [Remove Maldição](https://github.com/phpablo/Hello-World)
-4. JavaScript
-     - [Módulo A,B,C e D](https://github.com/phpablo/CursoJs.git)
-6. MySQL
-7. Python
-     - [Mundo 01](https://github.com/phpablo/Curso-de-Python-Mundo-1.git)
-8. PHP Básico
-9. PHP Moderno v.8
-10. PHP Orientado a Objetos
-     - [Exercício Livros](https://github.com/phpablo/ProjetoLivro)
-     - [Conteúdo Aulas + Exercícios](https://github.com/phpablo/PHP-Orientado-a-Objetos.git)
-     - [Conteúdo Final do Curso](https://github.com/phpablo/Curso-PHP-POO.git)
-11. PHP Zero ao Profisisonal
-     - [Todos Módulos](https://github.com/phpablo/b7webphp.git)
+<hr>
+<img alt="Tools" title="Tools" src="https://skillicons.dev/icons?i=github,git"/>
+
+| [Git](https://github.com/phpablo/Projetogit)
+[Merge](https://github.com/phpablo/testando-merge) | 
+[Site](https://github.com/phpablo/projeto-site) | 
+[Remove Maldição](https://github.com/phpablo/Hello-World) |
+<hr>
+
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=js"/>
+
+| [Módulo A,B,C e D](https://github.com/phpablo/CursoJs.git) |
+<hr>
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=python"/>
+
+| [Mundo 01](https://github.com/phpablo/Curso-de-Python-Mundo-1.git) |
+
+<hr>
+
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=php"/>
+
+| [Exercício Livros](https://github.com/phpablo/ProjetoLivro) | 
+[Conteúdo Aulas + Exercícios](https://github.com/phpablo/PHP-Orientado-a-Objetos.git) | 
+[Conteúdo Final do Curso](https://github.com/phpablo/Curso-PHP-POO.git) |
+
+<hr>
+
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=php&theme=light"/>
+
+| <em>B7Web</em> [Todos Módulos](https://github.com/phpablo/b7webphp.git) | 
 
 ### 🚧Aprendizado Contínuo
 
@@ -49,3 +60,5 @@
 🚀Pablo Henrique, mais conhecido como Zero Meia, vulgo PHPablo 🥇
 
 🧠 Obrigado por se juntar a mim nesta jornada de aprendizado em desenvolvimento web. Vamos aprender e crescer juntos!
+
+![giphy](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/6b730159-d20d-4ead-b4cb-3d6f51d73e42)
