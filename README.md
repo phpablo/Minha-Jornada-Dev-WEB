@@ -10,6 +10,7 @@
 | [Módulo 1](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios) |
 [Módulo 2](https://github.com/phpablo/Mod2_HTML5-CSS3) |
 [Módulo 3](https://github.com/phpablo/Mod3_HTML5-CSS3) |
+[Módulo 4](https://github.com/phpablo/Mod4_HTML5-CSS3) |
 
 <hr>
 <img alt="Tools" title="Tools" src="https://skillicons.dev/icons?i=github,git"/>
