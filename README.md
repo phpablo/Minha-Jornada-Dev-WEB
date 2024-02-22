@@ -1,10 +1,15 @@
 <h1 align="center">🚀Minha Jornada de Desenvolvimento Web 🤓</h1>
 
-<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada de aprendizado em desenvolvimento web. Aqui você encontrará meus projetos didáticos, exercícios das aulas e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
+<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada de aprendizado em desenvolvimento web em cursos e Faculdade de Análise e Desenvolvimento de Sistemas pela Descomplica Faculdade Digital. Aqui você encontrará meus projetos didáticos feitos na faculdade e nos cursos extracurriculares, exercícios das aulas e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
 
 ## O que você encontrará aqui:
-### 💻 **Exercícios e Desafios dos Cursos**
+### 💻 **Desafios da Faculdade & Exercícios dos Cursos**
 *Explore os projetos web que criei para aplicar o que aprendi.* <br> <br>
+
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=devto"/>
+
+| [Crud JavaScript](https://github.com/phpablo/desafio-crud-js) |
+
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css"/>
 
 | [Módulo 1](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios) |
