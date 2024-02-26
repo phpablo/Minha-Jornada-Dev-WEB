@@ -8,7 +8,7 @@
 
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=devto"/>
 
-| [Crud JavaScript](https://github.com/phpablo/desafio-crud-js) |
+| [Crud JavaScript](https://github.com/phpablo/desafio-crud-js) | [Calculadora JavaScript](https://github.com/phpablo/desafio-calculadora-js) |
 
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css"/>
 
