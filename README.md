@@ -29,7 +29,11 @@
 
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=js"/>
 
-| [Módulo A,B,C e D](https://github.com/phpablo/CursoJs.git) |
+| [Módulo A,B,C e D](https://github.com/phpablo/CursoJs.git)
+| [Detector de Idade](https://github.com/phpablo/CursoJs/tree/main/Aula014_Exercicios2)
+| [Hora do Dia](https://github.com/phpablo/Mod4_HTML5-CSS3). <br/><br/>
+![DetectorIdade](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/64194d64-66f7-4f0d-8e5a-d1624e9c8927) 
+![Dias](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/2eb54906-7fe3-4d2e-b8a6-c6ce2fcb1b3d)
 <hr>
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=python"/>
 
