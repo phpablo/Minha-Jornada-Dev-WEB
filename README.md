@@ -16,7 +16,9 @@
 | [Módulo 1](https://github.com/phpablo/Mod1_HTML5-CSS3/tree/main/Exerc%C3%ADcios) |
 [Módulo 2](https://github.com/phpablo/Mod2_HTML5-CSS3) |
 [Módulo 3](https://github.com/phpablo/Mod3_HTML5-CSS3) |
-[Módulo 4](https://github.com/phpablo/Mod4_HTML5-CSS3) |
+[Módulo 4](https://github.com/phpablo/Mod4_HTML5-CSS3) | <br/>
+![ProjetoSocialGIF2](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/a8115b18-a761-40b3-99b3-c7a4e69f430b)
+
 
 <hr>
 <img alt="Tools" title="Tools" src="https://skillicons.dev/icons?i=github,git"/>
@@ -26,6 +28,8 @@
 [Site](https://github.com/phpablo/projeto-site) | 
 [Remove Maldição](https://github.com/phpablo/Hello-World) |
 <hr>
+
+
 
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=js"/>
 
