@@ -38,6 +38,7 @@
 | [Hora do Dia](https://github.com/phpablo/Mod4_HTML5-CSS3). <br/><br/>
 ![DetectorIdade](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/64194d64-66f7-4f0d-8e5a-d1624e9c8927) 
 ![Dias](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/2eb54906-7fe3-4d2e-b8a6-c6ce2fcb1b3d)
+![SuperContador](https://github.com/phpablo/Minha-Jornada-Dev-WEB/assets/13618424/5f541bf2-ad17-473a-b1e2-86fa22ef67f8)
 <hr>
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=python"/>
 
@@ -52,6 +53,7 @@
 [Conteúdo Final do Curso](https://github.com/phpablo/Curso-PHP-POO.git) |
 
 <hr>
+
 
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=php&theme=light"/>
 
