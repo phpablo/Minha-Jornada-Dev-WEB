@@ -64,6 +64,14 @@
 
 | <em>B7Web</em> [Todos Módulos](https://github.com/phpablo/b7webphp.git) | 
 
+<hr>
+
+
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=php&theme=light"/>
+
+| <em>Livro: Entendendo Algoritimos </em> [Exercícios Completos](https://github.com/phpablo/exercicios-livro-entendendo-algoritmos.git) | 
+
+
 ### 🚧Aprendizado Contínuo
 
 *Este repositório reflete minha jornada de aprendizado contínuo. A medida que eu for avançando, você verá novos projetos e conquistas.*
