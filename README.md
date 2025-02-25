@@ -6,6 +6,11 @@
 ### 💻 **Desafios da Faculdade & Exercícios dos Cursos**
 *Explore os projetos web que criei para aplicar o que aprendi.* <br> <br>
 
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=devto"/>
+
+| [B7Web 2025 - Dev FullStack](https://github.com/phpablo/B7Web_2025.git)
+<hr>
+
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=js"/>
 
 | [OneBitCode - Trilha JavaScript FullStack](https://github.com/phpablo/OneBitcode.git)
