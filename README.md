@@ -52,7 +52,7 @@
 <hr>
 <img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=python"/>
 
-| [Mundo 01](https://github.com/phpablo/Curso-de-Python-Mundo-1.git) |
+| [Mundo 01](https://github.com/phpablo/python-3.git) |
 
 <hr>
 
