@@ -1,6 +1,6 @@
 <h1 align="center">🚀Minha Jornada de Desenvolvimento Web 🤓</h1>
 
-<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada de aprendizado em desenvolvimento web em cursos e Faculdade de Análise e Desenvolvimento de Sistemas pela Descomplica Faculdade Digital. Aqui você encontrará meus projetos didáticos feitos na faculdade e nos cursos extracurriculares, exercícios das aulas e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
+<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada de aprendizado em desenvolvimento web em cursos e Universidade Federal do Cariri graduando em Análise e Desenvolvimento de Sistemas e em paralelo a Faculdade de Engenharia de Software pela Universidade União das Américas Descomplica. Aqui você encontrará meus projetos didáticos feitos na faculdade e nos cursos extracurriculares, exercícios das aulas e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
 
 ## O que você encontrará aqui:
 ### 💻 **Desafios da Faculdade & Exercícios dos Cursos**
